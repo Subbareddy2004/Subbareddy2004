@@ -21,7 +21,7 @@
   </a>
 </p>
 
-## 🚀 About Me
+🚀 About Me
 - 🌱 I'm currently learning **Deep Learning**
 - 👨‍💻 All of my projects are available at [subbareddy.me](https://subbareddy.me)
 - 💬 Ask me about **React, JavaScript**
