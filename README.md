@@ -10,14 +10,14 @@
 </p>
 
 <p align="left">
-  <a href="https://linkedin.com/in/tirumalareddysai">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://linkedin.com/in/tirumalareddysai" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://subbareddy.me">
-    <img src="https://img.shields.io/badge/-Portfolio-brightgreen?style=flat-square" alt="Portfolio">
+  <a href="https://subbareddy.me" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:tirumalareddysai2004@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -28,7 +28,8 @@
 - 📫 How to reach me: **tirumalareddysai2004@gmail.com**
 
 ## 🛠️ Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,ts,nodejs,express,mongodb,postgres,mysql,git,docker,tailwind,bootstrap,java,c,cpp,redis&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,ts,nodejs,express,mongodb,postgres,mysql,git,docker,tailwind,bootstrap,java,c,cpp,redis,postman,prisma,vercel,vite&perline=8)](https://skillicons.dev)
+
 
 ## 📊 GitHub Stats
 
