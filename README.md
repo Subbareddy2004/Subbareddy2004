@@ -32,11 +32,11 @@
 
 ## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tirumalareddysai&show_icons=true&locale=en&layout=compact" alt="tirumalareddysai" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subbareddy2004&show_icons=true&locale=en&layout=compact" alt="tirumalareddysai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tirumalareddysai&show_icons=true&locale=en" alt="tirumalareddysai" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subbareddy2004&show_icons=true&locale=en" alt="tirumalareddysai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tirumalareddysai&" alt="tirumalareddysai" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subbareddy2004&" alt="Subbareddy2004" /></p>
 
 ## 🏆 Achievements
 <p align="left">
